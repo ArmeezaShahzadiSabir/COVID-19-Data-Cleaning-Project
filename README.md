@@ -1,8 +1,5 @@
 # COVID-19 Data Cleaning Project
 
-![COVID-19 Data Visualization](\plots\cleaning_comparison.png)  
-*Distribution of new cases before and after cleaning*
-
 ## 📌 Project Overview
 This project demonstrates professional **data cleaning and preprocessing** skills using real-world WHO COVID-19 data. The raw dataset contained:
 - 15% missing values 
